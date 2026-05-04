@@ -43,7 +43,7 @@ Pasos:
 
 ## Pull Request
 
-https://github.com/sgsmith27/oyd-exercise-2-2/pull/1
+[Link del PR](https://github.com/sgsmith27/oyd-exercise-2-2/pull/1)
 
 ## Screenshot del comentario
 
